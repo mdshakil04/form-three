@@ -1,0 +1,11 @@
+.form-container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+.left-container{
+    background-color: #5ECD93;
+    padding: 25px;
+}
